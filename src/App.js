@@ -1,5 +1,6 @@
 import Beta from "./components/Beta";
 import Explainer from "./components/Explainer";
+import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
 import Header from "./components/Header";
 import Info from "./components/Info";
@@ -14,8 +15,9 @@ function App() {
         <Info />
         <Transform />
         <Gallery />
-        <Beta />
       </div>
+      <Beta />
+      <Footer />
     </div>
   );
 }
