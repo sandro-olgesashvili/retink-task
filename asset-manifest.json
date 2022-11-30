@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/retink-task/static/css/main.c1eb9e3b.css",
+    "main.js": "/retink-task/static/js/main.314799a0.js",
+    "static/media/dog.png": "/retink-task/static/media/dog.3b5614db02b038162739.png",
+    "static/media/img3.png": "/retink-task/static/media/img3.135d7e13eaa6e2eea6e1.png",
+    "static/media/img4.png": "/retink-task/static/media/img4.86060c7627a35d2d6530.png",
+    "static/media/img1.png": "/retink-task/static/media/img1.962f7316e751414eeceb.png",
+    "static/media/img6.png": "/retink-task/static/media/img6.ed04b8419b9e717447c5.png",
+    "static/media/img5.png": "/retink-task/static/media/img5.bc9948a36385f0945a84.png",
+    "static/media/img2.png": "/retink-task/static/media/img2.e277503b685c6666a187.png",
+    "index.html": "/retink-task/index.html",
+    "main.c1eb9e3b.css.map": "/retink-task/static/css/main.c1eb9e3b.css.map",
+    "main.314799a0.js.map": "/retink-task/static/js/main.314799a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1eb9e3b.css",
+    "static/js/main.314799a0.js"
+  ]
+}
